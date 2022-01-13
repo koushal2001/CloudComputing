@@ -142,7 +142,7 @@ public class Simulation {
 			datacenter0.printDebts();
 			datacenter1.printDebts();
 
-			Log.printLine("CloudSimExample6 finished!");
+			Log.printLine("Simulation finished!");
 		}
 		catch (Exception e)
 		{
